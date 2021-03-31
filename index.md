@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+title: Welcome to Xun's page!
 
 You can use the [editor on GitHub](https://github.com/x1zhu/xun_zhu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
